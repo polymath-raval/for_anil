@@ -8,6 +8,8 @@
 
 - https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
+## Pandas Tutorial
+
 If you want to follow along with the tutorial at home, here is the
 YouTube recording of the 3-hour tutorial at PyCon itself:
 
