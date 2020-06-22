@@ -1,5 +1,13 @@
 # for_anil
 
+## Python Resources
+
+- https://www.programiz.com/
+
+## Jupyter Notebook
+
+- https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
 If you want to follow along with the tutorial at home, here is the
 YouTube recording of the 3-hour tutorial at PyCon itself:
 
